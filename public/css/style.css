@@ -1,0 +1,16 @@
+.jumbotron { 
+    background: url('/images/main.jpg') center no-repeat !important; 
+    background-size: cover;
+    height: 300px;
+
+    /* test */
+}
+
+.column {
+    border-color: black;
+    background-color: black;
+    border-radius: 10px;
+    width: 520px;
+    height: 520px;
+    margin: 150px auto;
+}
